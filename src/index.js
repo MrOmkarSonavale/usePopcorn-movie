@@ -17,13 +17,6 @@ root.render(
   <React.StrictMode>
     <App />
 
-    {/* <StarRating maxRating={5} color={'blue'} size={40}
-      ratingMessage={['teribel', 'good', 'average', 'very good', 'exelant']}
-    />
-     {consumer props , reusable and flexible componet} 
-    <Star maxRating={6} />
-    */}
-
   </React.StrictMode >
 );
 
